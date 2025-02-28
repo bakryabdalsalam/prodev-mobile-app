@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Expo folders
+.expo/
+.expo-shared/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+android/app/build/
+ios/build/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+
+# Android/Gradle
+android/.gradle/
+android/build/
+
+# Misc
+.DS_Store
+.env*
+.vscode/
+.idea/
